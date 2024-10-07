@@ -37,7 +37,7 @@ public class HbntCnfg {
 		prop.put("hibernate.connection.driver_class", "com.mysql.jdbc.Driver");
 		prop.put("hibernate.connection.url", "jdbc:mysql://localhost:3306/student_system");
 		prop.put("hibernate.connection.username", "root");
-		prop.put("hibernate.connection.password", "onur2001");
+		prop.put("hibernate.connection.password", "1234");
 		prop.put("hibernate.hbm2ddl.auto", "update");
 		prop.put("hibernate.show_sql", "true");
 		return prop;
